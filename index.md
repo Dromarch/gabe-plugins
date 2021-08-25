@@ -25,4 +25,4 @@ I hope my work can be useful. :)
 ***
 
 For the complete documentation of all my plugins check the list at the link below:
-## [Gabe MZ - Plugins Documentation](Plugins)
+## [Gabe MZ - RPG Maker MZ Plugins](Plugins_MZ)
