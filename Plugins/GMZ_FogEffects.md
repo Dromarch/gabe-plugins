@@ -7,6 +7,8 @@ date: "10/09/20"
 
 # Gabe MZ - Fog Effects
 
+<iframe frameborder="0" src="https://itch.io/embed/742424" width="552" height="167"><a href="https://dromarch.itch.io/gabe-mz-fog-effects">Gabe MZ - Fog Effects by Gabriel</a></iframe>
+
 ```
 03/09/20 | Version: 2.0.1 | Scene return bug fix
 02/09/20 | Version: 2.0.0 | Completely rewritten code
