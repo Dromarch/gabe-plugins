@@ -101,7 +101,7 @@ The fog effects are added to the map through a layer system. Whenever you add a 
 ```
 #### Usage Examples:
 ```
-<addFog 0: 1>           // This tag adds the fog effects of ID 1 at layer 0.
+<addFog 1: 1>           // This tag adds the fog effects of ID 1 at layer 1.
 
 <addFog 4: 3>           // This tag adds the fog effects of ID 3 at layer 4.
 
