@@ -8,6 +8,9 @@ date: "26/09/20"
 # Gabe MZ - Message Plus
 
 ```
+21/08/21 | Version: 1,1,1 | Some new Windowskin and Pop features
+11/08/21 | Version: 1.1.0 | Various new features, fixes and improvements
+27/09/20 | Version: 1.0.1 | Compatibility path with VisuMZ_1_MessageCore
 26/09/20 | Version: 1.0.0 | Released
 ```
 
