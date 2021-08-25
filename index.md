@@ -8,7 +8,7 @@ output:
      self_contained: no
 
 ---
-![Main Thumb](images/MainThumb.PNG)
+![Main Thumb](images/MainThumb.png)
 
 # Hi, everyone!
 
