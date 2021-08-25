@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+---
+title: "Gabe Plugins"
+author: "Gabriel"
+date: "10/09/20"
+output: 
+  html_document:
+     css: font-awesome-4.4.0/css/font-awesome.css
+     self_contained: no
 
-You can use the [editor on GitHub](https://github.com/Dromarch/gabe-plugins/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+![Main Thumb](images/MainThumb.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Hi, everyone!
 
-### Markdown
+Hi everyone! I'm Gabriel, or just Gabe. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've already experienced RPG Maker for over ten years, I'm one of administrators of the brazilian RM forum [Centro RPG Maker](https://centrorpg.com/) and currently I'm dedicating to create **FREE** plugins for RPG Maker MZ. I'm in this initiative with the staff of the [Comuns RPG Maker](https://comuns-rpgmaker.github.io), a partnership with my great friends Brandt, Jorge, Reisen and Syureri.
 
-```markdown
-Syntax highlighted code block
+All of my plugins are **100% FREE** and under the [Zlib License](https://github.com/comuns-rpgmaker/GabeMZ/blob/master/LICENSE). It's allowed to use them in both commercial and non-commercial games, I just ask you to read and respect the terms of the license to which my plugins are subject.
 
-# Header 1
-## Header 2
-### Header 3
+If you liked my work and want to support me, consider visiting my [Patreon](https://www.patreon.com/gabriel_nfd) or [Itch](https://dromarch.itch.io/) pages. If you have any questions, need help or want to report something about my plugins, feel free to join the [Comuns Plugins](https://discord.gg/GG85QRz) server on Discord.
 
-- Bulleted
-- List
+I hope my work can be useful. :)
 
-1. Numbered
-2. List
+***
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dromarch/gabe-plugins/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For the complete documentation of all my plugins check the list at the link below:
+## [Gabe MZ - Plugins Documentation](Plugins)
