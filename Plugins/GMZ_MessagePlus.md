@@ -17,6 +17,11 @@ This plugin adds significant improvements to the default RPG Maker message syste
 
 ***
 
+## Download
+<iframe frameborder="0" src="https://itch.io/embed/769302" width="552" height="167"><a href="https://dromarch.itch.io/gabe-mz-message-plus">Gabe MZ - Message Plus by Gabriel</a></iframe>
+
+***
+
 ## Plugin Commands:
 Below is a list of the plugin commands that can be used:
 
