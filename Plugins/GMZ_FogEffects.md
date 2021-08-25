@@ -7,12 +7,12 @@ date: "10/09/20"
 
 # Gabe MZ - Fog Effects
 
-<iframe frameborder="0" src="https://itch.io/embed/742424" width="552" height="167"><a href="https://dromarch.itch.io/gabe-mz-fog-effects">Gabe MZ - Fog Effects by Gabriel</a></iframe>
-
 ```
+29/06/21 | Version: 2.1.0 | Added opacity and tone control
+14/01/21 | Version: 2.0.2 | PT-BR header typo fix
 03/09/20 | Version: 2.0.1 | Scene return bug fix
 02/09/20 | Version: 2.0.0 | Completely rewritten code
-28/09/20 | Version> 1.1.0 | Redone fog effects layer system
+28/09/20 | Version: 1.1.0 | Redone fog effects layer system
 26/08/20 | Version: 1.0.3 | Cleaned code and help section improved
 25/08/20 | Version: 1.0.0 | Released
 ```
@@ -25,6 +25,7 @@ This plugin provides a option to create and display fog effects on maps and batt
 
 ## Download
 ### [Gabe MZ - Fog Effects](https://dromarch.itch.io/gabe-mz-fog-effects) (v2.0.1)
+<iframe frameborder="0" src="https://itch.io/embed/742424" width="552" height="167"><a href="https://dromarch.itch.io/gabe-mz-fog-effects">Gabe MZ - Fog Effects by Gabriel</a></iframe>
 
 ***
 
